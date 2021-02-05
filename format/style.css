@@ -1,0 +1,38 @@
+body {
+    box-sizing: border-box;
+    background-color: #002650;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    font-family: Open Sans,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.7;
+    background: url("https://blznews.akamaized.net/images/backgrounds/background-generic-header-e129336aaae8aebc7a2d1aa147d4da8f103e8929d97871e797f213e0925d4bbaba693ea60fa1f6bae192cafc53f26e71640f104df81f2dabd5952e07db91df86.jpg");
+}
+.tabla-nashe {
+    border-collapse: collapse;
+    border: thin solid black;
+    margin: 25px 0;
+    min-width: 400px;
+    box-shadow: 0 0 20px silver;
+}
+.contenedor {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    width: 50vw;
+    height: 95vh;
+}
+.centrado {
+    margin: 0 auto;
+    text-align: center;
+}
+footer {
+   text-align: right;
+}
+.tabla-nashe tbody tr:hover{
+    color: black;
+}
+    
